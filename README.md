@@ -3,7 +3,7 @@
 ## Design History
 Version 1.0
 
-Produced by Matthew Sides, Sam,Luke,Luke and Joe
+Produced by Matthew Sides, Sam Dearing, LukeBruni, Luke Shead and Joe William
 
 01/11/2017
 
