@@ -27,8 +27,9 @@ This document specifies a design for the conceptual features and mechanics (game
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
 
+### The Planning
 
-## Specification
+In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. After meeting we made sure to cover all of the risks and problems that we could encounter on the project. For example if someone was to have issues with a certain part of building the program, would there be help from the team and if so, was there flexability within the group to help. We took these risk into consideration and tried to make technical solutions to each of them. With us doing this it meant
 
 ### Concept
 
