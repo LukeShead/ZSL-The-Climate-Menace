@@ -126,7 +126,7 @@ ZSL has given us the task of creating a web based application for children aged 
 
 ![Second Gantt](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart%20B.JPG)
 
-Schedule
+### Schedule
 
 -Monday 2nd-Sunday 8th: Create Idea for project
 
