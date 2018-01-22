@@ -58,7 +58,7 @@ This game will be set in the present/modern day.
 The Menu will consist of four images, each representating a different area or enviroment. 
 In the application all areas will be unlocked automatically to give the user a choice as to which area they may want to begin with.
 
-<img src="https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Mockup%20App%20Menu.png>
+![Game Menu](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Mockup%20App%20Menu.png)
 
 
 Furthermore the graphic styles within the enviroments and menu will be consistent throughout, though what is represented within each area and the colour palette will change so that differentiation may be made for the 4 different areas (Tundra, Rain Forest, British countryside and the Ocean).
