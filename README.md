@@ -173,12 +173,6 @@ Tasks for 9th-15th
 
 #### Monday 16th Sprint 2
 
-
-
-
-
-
-
 | Task    | Group Member         | Time Allocated               | Completed                      |
 |----------------------------------------------------------|-----------------|----------------------|--------------------------------|
 | Identify project outcomes using a GANTT chart|   Joe and Matthew   | 30 mins |  Yes |                 
