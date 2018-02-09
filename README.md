@@ -148,6 +148,8 @@ ZSL has given us the task of creating a web based application for children aged 
 
 -Tuesday 7th November: Final Presentation
 
+## Sprint
+
 #### Monday 2nd- 8th
 We first started with a 1 hour sprint to put our ideas together, we began brainstorming ideas of what the main gameplay of the game would be. We decided to go with an item finding game where the user would have to find certain items in environments, which would give the user information based on each item (how greenhouse gases are created by the item etc.). We also decided on a main menu where the user would be able to decide which environment they would be using (this would depend on the environment table they are at in the ZSL session). We then spent the rest of the week fine tuning this idea and creating concepts of how the app interface would look. In our second sprint on the 5th we then decided on the aesthetic of the app, we decided upon using a comic book style as we felt that would be appealing for the children using the app.
 
