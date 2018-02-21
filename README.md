@@ -128,9 +128,7 @@ ZSL has given us the task of creating a web based application for children aged 
 
 ## Gantt Charts
 
-![First Gantt](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Gantt%20chart%20A.JPG)
-
-![Second Gantt](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart%20B.JPG)
+![First Gantt](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
 
 ### Schedule
 
