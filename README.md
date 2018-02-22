@@ -42,8 +42,8 @@ On parts of the ZSL project, there were meetings on the project to show what the
 ### Meeting the clients needs with software and the tools used
 When reflecting on the feedback that the client had given us, we needed to look at the software that we were using and whether it would be effective in delivering a product that suited the clients needs. We took time to investigate unity's functions and qualities as well as some other sofware and made sure that the software that we were using was acceptable for the timeframe and scope of the project. After reviewing our choices we found that unity was the right decision and decided to use that to rebuild our app.
 
-#### tools
-When meeting and interviewing the client, we used a powerpoint presentation in order to allow us to clearly show what we were trying to do, as well as this we made prototypes in software's that allowed us to be able to tell what kind of software felt easier and what ones felt more clunky or difficult. As well as this we used Adobe Photoshop to collect the images together and make an artstyle that was right for the project. With these tools we were able to perform a software investigation properly and figure out the best ways to meet the clients needs.
+### tools
+When meeting and interviewing the client, we used a powerpoint presentation in order to allow us to clearly show what we were trying to do, as well as this we made prototypes in software's that allowed us to be able to tell what kind of software felt easier and what ones felt more clunky or difficult. As well as this we used Adobe Photoshop to collect the images together and make an artstyle that was right for the project. In order to find the tools, we decided to each take a separate task and work together in order to find the best software for a given need. With these tools and techniques we were able to perform a software investigation properly and figure out the best ways to meet the clients needs.
 
 
 ### Concept
