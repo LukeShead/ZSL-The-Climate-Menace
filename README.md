@@ -29,6 +29,11 @@ This documentation is meant to be read by programmers, artists and producers inv
 
 ### The Planning
 
+#### User stories
+
+With the project having quite a large scope, we needed to find a way to break up tasks in order to focus on individual sections of the project. In order to do this we split the project into epics and stories
+
+
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
 
 Before meetings there where some issues with the powerpoint presentation as it had been created in google docs then transferred over to Microsoft PowerPoint, however those problems where managed to be fixed before the pitch had started. As well as this the group made handouts for the clients to make sure that any information that was missed or not communicated properly would still be showed to the client. With these handouts we where able to resolve an issue with the app before it was too late to have any big inpact on the design process. However in order to help with communicating with the client, we decided to use as many communication methods as possible, for example we used a visual style with a presentation, a verbal style with me presenting the slides as well as a physical style with a demo that they could use. On top of this, non-verbal communication was used in order to help if anyone could not hear by using my hands to point to different parts when explaining to make it more clear.
