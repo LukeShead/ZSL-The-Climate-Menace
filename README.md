@@ -37,7 +37,12 @@ After meeting we made sure to cover all of the risks and problems that we could 
 
 ### Feedback
 
-On parts of the ZSL project, there were meetings on the project to show what the app was looking like and if it was going in the right direction of what they wanted. The feedback that our group got on the first pitch was very eye-opening as it showed us that we had been going in a wrong direction with our app. The feedback that we got that our app was not informative enough and interactive sides of it were lacking allowed us to look back at our app and make changes to the app to fit the clients needs. This included changing the interactive side of it completely as well as adding in more parts to make it more informational.
+On parts of the ZSL project, there were meetings on the project to show what the app was looking like and if it was going in the right direction of what they wanted. The feedback that our group got on the first pitch was very eye-opening as it showed us that we had been going in a wrong direction with our app. By meeting with the client it showed us what the client was looking for, having this new information made us need to start making changes to the application.
+
+### Meeting the clients needs with software.
+When reflecting on the feedback that the client had given us, we needed to look at the software that we were using and whether it would be effective in delivering a product that suited the clients needs. We took time to investigate unity's functions and qualities as well as some other sofware and made sure that the software that we were using was acceptable for the timeframe and scope of the project. After reviewing our choices we found that unity was the right decision and decided to use that to rebuild our app.
+
+
 
 ### Concept
 
