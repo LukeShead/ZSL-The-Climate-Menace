@@ -27,11 +27,21 @@ This document specifies a design for the conceptual features and mechanics (game
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
 
+
+### User stories
+
+With the project having quite a large scope, we needed to find a way to break up tasks in order to focus on individual sections of the project. In order to do this we split the project into epics and stories, what this meant was that the project was able to be looked at from the small tasks and problems rather than the entire project as a whole. Doing this helped us look at the requirements for the user and also the software requirements within the project, by looking at these things individually, we were able to focus on the project much easier.
+
+The epic of the project was to design an application that would be able to meet the users requirements to a certain standard. Because of this it meant that each requirement had to be looked at individually. This is where user stories where made, some examples of the user stories that were made was:
+
+I want to be able to navigate the menu by clicking onto it,
+I want to be able to go to whichever habitat in any order I want,
+I want to be able to have an option that tells me what to do in case I don't understand
+
+With these stories and many more we were able to have a look at all the user requirements and put them in their own tasks, which made us focus more on the individual tasks that were important to the requirements of the user and know exactly what software we needed to use in order to help us achieve them
+
+
 ### The Planning
-
-#### User stories
-
-With the project having quite a large scope, we needed to find a way to break up tasks in order to focus on individual sections of the project. In order to do this we split the project into epics and stories
 
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
