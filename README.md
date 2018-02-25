@@ -88,9 +88,9 @@ After meeting we made sure to cover all of the risks and problems that we could 
 
 On parts of the ZSL project, there were meetings on the project to show what the app was looking like and if it was going in the right direction of what they wanted. The feedback that our group got on the first pitch was very eye-opening as it showed us that we had been going in a wrong direction with our app. By meeting with the client it showed us what the client was looking for, having this new information made us need to start making changes to the application.
 
-## qualitative and quantitative research
+## Qualitative and quantitative research
 
-When building the application, we needed to research whether people found the application fun and interactive, this meant that we would have to use serveys in order to find out the applications quality with multiple people. In order to do this we did two types of research, qualitative and quantitative research meant that we were able to get lots of information in order to improve the app. We invited people into the class to test our game.
+When building the application, we needed to research whether people found the application fun and interactive, this meant that we would have to use surveys in order to find out the applications quality with multiple people. In order to do this we did two types of research, qualitative and quantitative research meant that we were able to get lots of information in order to improve the app. We invited people into the class to test our game.
 
 | Name          | Rating 1-10   | Other feedback  |
 | ------------- |:-------------:| ---------------:|
