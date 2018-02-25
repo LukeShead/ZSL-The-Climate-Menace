@@ -90,13 +90,13 @@ On parts of the ZSL project, there were meetings on the project to show what the
 
 ## qualitative and quantitative research
 
-When building the application, we needed to research whether people found the application fun and interactive, this meant that we would have to use serveys in order to find out the applications quality with multiple people. In order to do this we did two types of research, qualitative and quantitative research meant that we were able to get lots of information in order to improve the app.
+When building the application, we needed to research whether people found the application fun and interactive, this meant that we would have to use serveys in order to find out the applications quality with multiple people. In order to do this we did two types of research, qualitative and quantitative research meant that we were able to get lots of information in order to improve the app. We invited people into the class to test our game.
 
 | Name          | Rating 1-10   | Other feedback  |
 | ------------- |:-------------:| ---------------:|
-| col 3 is      | right-aligned | $1600           |
-| col 2 is      | centered      |   $12           |
-| zebra stripes | are neat      |    $1           |
+|Ciaran Smith| 6 | $1600           |
+|Matthew Senior| 8      |   $12           |
+|Michael Chhina| 4   |    $1           |
 
 ### Meeting the clients needs with software and the tools used
 When reflecting on the feedback that the client had given us, we needed to look at the software that we were using and whether it would be effective in delivering a product that suited the clients needs. We took time to investigate unity's functions and qualities as well as some other sofware and made sure that the software that we were using was acceptable for the timeframe and scope of the project. After reviewing our choices we found that unity was the right decision and decided to use that to rebuild our app.
