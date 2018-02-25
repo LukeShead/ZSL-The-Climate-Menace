@@ -42,6 +42,7 @@ This documentation is meant to be read by programmers, artists and producers inv
 
 With the project having quite a large scope, we needed to find a way to break up tasks in order to focus on individual sections of the project. In order to do this we split the project into epics and stories, what this meant was that the project was able to be looked at from the small tasks and problems rather than the entire project as a whole. Doing this helped us look at the requirements for the user and also the software requirements within the project, by looking at these things individually, we were able to focus on the project much easier.
 
+#### Epics
 Epics are usually a task or problem that outlines the big tasks within the project, these can be broken down into stories that can help solve the problem down by looking at the individual smaller problems in the epic. User stories are epics that have been broken down into smaller tasks. 
 
 For example a project will be to build a car, the epics would be to build an engine, framework, tyres etc. The stories of the framework epic would be small tasks to help it be successful. For example I want to be able to fit 4 people in the car, this means that when planning it the teamm will look at this and make sure it is the right size. Another story could be I want the car to look nice, so the team will spend the next bit of time working on that specific point to make sure it meets a user's needs.
@@ -98,8 +99,10 @@ Non-verbal communication was used in order to help if anyone could not hear by u
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
 
+### Problems with the client meeting.
 Before meetings there where some issues with the powerpoint presentation as it had been created in google docs then transferred over to Microsoft PowerPoint, however those problems where managed to be fixed before the pitch had started. As well as this the group made handouts for the clients to make sure that any information that was missed or not communicated properly would still be showed to the client. With these handouts we where able to resolve an issue with the app before it was too late to have any big impact on the design process.
 
+### Covering risks.
 After meeting we made sure to cover all of the risks and problems that we could encounter on the project. For example if someone was to have issues with a certain part of building the program, would there be help from the team and if so, was there flexability within the group to help. We took these risk into consideration and tried to make technical solutions to each of them. With us doing this it meant that most of the risks that could have been prevented were, this process saved much time and recources and allowed us to use our time much more effectively in the project.
 
 # Feedback
