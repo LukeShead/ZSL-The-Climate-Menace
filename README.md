@@ -99,7 +99,7 @@ Non-verbal communication was used in order to help if anyone could not hear by u
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
 
-### Problems with the client meeting and how we solved them
+## Problems with the client meeting and how we solved them
 
 ### different forms of presentation in case powerpoint went wrong
 Before meetings there where some issues with the powerpoint presentation as it had been created in google docs then transferred over to Microsoft PowerPoint, however those problems where managed to be fixed before the pitch had started. As well as this the group made handouts for the clients to make sure that any information that was missed or not communicated properly would still be showed to the client. This also meant that if powerpoint was not working on the ZSL system we would have a physical copy to use instead of a powerpoint. With these handouts we where able to resolve an issue with the app before it was too late to have any big impact on the design process.
