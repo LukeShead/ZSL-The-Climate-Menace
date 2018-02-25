@@ -94,7 +94,8 @@ When building the application, we needed to research whether people found the ap
 
 | Name          | Rating 1-10   | Other feedback  |
 | ------------- |:-------------:| ---------------:|
-|Ciaran Smith| 6 | $1600           |
+|Ciaran Smith| 6 | The application looks good however needs to be
+a bit slower so I can take in the information|
 |Matthew Senior| 8      |   $12           |
 |Michael Chhina| 4   |    $1           |
 
