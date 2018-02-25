@@ -64,14 +64,14 @@ After creating all of the stories and epics and taking all of the client needs i
 #### Objectives
 These are all types of aims that we devised, however objectives were then what needed to be devised. The difference between aims and objectives is the same as user stories and epics in the scale of the tasks given in them, aims are bigger tasks whereas objectives are the smaller tasks that make up the aims. Examples of objectives that we had were:
 
-# Research facts on each habitat that suits the purpose of the project,
-## Find a style of graphics for the application,
-### Find software or IDE to help with building application,
-#### Have someone research techniques to help build menu,
+##### Research facts on each habitat that suits the purpose of the project,
+##### Find a style of graphics for the application,
+##### Find software or IDE to help with building application,
+##### Have someone research techniques to help build menu,
 ##### Luke Bruni start to build the graphics for the menu,
-###### Research types of pledges to use for system,
+##### Research types of pledges to use for system,
 
-These were some of the objectives for the project, these were like the user stories however a lot more specific to a task 
+These were some of the objectives for the project, these were like the user stories however a lot more specific to a task. These with the user stories helped us focus on the project better and allowed us to work more effieciently.
 
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
