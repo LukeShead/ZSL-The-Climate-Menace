@@ -32,8 +32,9 @@ This document specifies a design for the conceptual features and mechanics (game
 
 This documentation is meant to be read by programmers, artists and producers involved in the design implementation and testing of “GreenHouse Menace”. The App is for a target age of 12-15 year olds, along with this the app has to be very informative and inteactive, ZSL required these for the app to be successful.
 
+# The Planning
 
-### User stories
+## User stories and objectives
 
 With the project having quite a large scope, we needed to find a way to break up tasks in order to focus on individual sections of the project. In order to do this we split the project into epics and stories, what this meant was that the project was able to be looked at from the small tasks and problems rather than the entire project as a whole. Doing this helped us look at the requirements for the user and also the software requirements within the project, by looking at these things individually, we were able to focus on the project much easier.
 
@@ -49,8 +50,28 @@ The epic of the project was to design an application that would be able to meet 
 
 With these stories and many more we were able to have a look at all the user requirements and put them in their own tasks, which made us focus more on the individual tasks that were important to the requirements of the user and know exactly what software we needed to use in order to help us achieve them. Becuase of these stories and epics we were able to manage our time and efficiency onto what the user needed instead of what the team think are good to have.
 
+### Using stories and epics to devise aims and objectives,
 
-### The Planning
+#### Aims
+After creating all of the stories and epics and taking all of the client needs into consideration, the team then took those and devised project aims and objectives to help work on the tasks of the project, for example, project aims included:
+
+##### Having a menu that was easily navigational,
+##### Having a menu that was visually appealing to the client and the needs they have,
+##### Having facts that were correct and would suit the purpose of the application,
+##### Have an interactive drag and drop game,
+##### Implement a clear pledge system,
+
+#### Objectives
+These are all types of aims that we devised, however objectives were then what needed to be devised. The difference between aims and objectives is the same as user stories and epics in the scale of the tasks given in them, aims are bigger tasks whereas objectives are the smaller tasks that make up the aims. Examples of objectives that we had were:
+
+# Research facts on each habitat that suits the purpose of the project,
+## Find a style of graphics for the application,
+### Find software or IDE to help with building application,
+#### Have someone research techniques to help build menu,
+##### Luke Bruni start to build the graphics for the menu,
+###### Research types of pledges to use for system,
+
+These were some of the objectives for the project, these were like the user stories however a lot more specific to a task 
 
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
