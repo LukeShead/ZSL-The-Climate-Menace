@@ -231,6 +231,8 @@ ZSL has given us the task of creating a web based application for children aged 
 
 ![First Gantt](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
 
+This gantt chart shows how the time was planned and managed throughout the project 
+
 ## Burndown Chart
 
 ![Burndown chart](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Burndown%20chart.jpg)
