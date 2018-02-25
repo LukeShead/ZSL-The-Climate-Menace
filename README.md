@@ -77,10 +77,28 @@ These are all types of aims that we devised, however objectives were then what n
 
 These were some of the objectives for the project, these were like the user stories however a lot more specific to a task. These with the user stories helped us focus on the project better and allowed us to work more effieciently.
 
+### Communication methods for training event
+
+When giving the training event for the client at the ZSL zoo, we decided to use as many communication methods as possible in order to make sure that the information we were trying to present to the client was receieved properly.
+
+#### Visual
+We used a visual style with a presentation, this allowed us to show pictures of what we were talking about in order to help the client understand what we were presenting and see the visual style instead of having to imagine it themselves.
+
+### Verbal style 
+a verbal style with me presenting the slides, this was me telling the client what each part and button did, also explaining how the application worked instead of having to look and try to guess what each part of the application did.
+
+### physical style 
+physical style with a demo that we gave them at the beginning of the event, this made sure that they could follow along with the presentation and get a much better understanding of the app by using it instead of being told about it.
+
+### Non-verbal
+Non-verbal communication was used in order to help if anyone could not hear by using my hands to point to different parts when explaining to make it more clear. This made points more focused on certain points of the slide.
+
+
+### Deciding on software
 
 In order to get the correct product to the client, the team met up and made sure that we were all on the same page when it came to the same IDE's we would be using to the the right programming language and what timetable that we would have. We met on serveral occasions regarding points about the app and how it would work, the first meeting was for information on the project, this was followed by a pitch meeting, this was where we had a design for our app. Through our presentation we where able to accurately show how the app was going to work, this allowed for feedback in what was good and bad in our app and we where able to use that for improvement to the app.
 
-Before meetings there where some issues with the powerpoint presentation as it had been created in google docs then transferred over to Microsoft PowerPoint, however those problems where managed to be fixed before the pitch had started. As well as this the group made handouts for the clients to make sure that any information that was missed or not communicated properly would still be showed to the client. With these handouts we where able to resolve an issue with the app before it was too late to have any big inpact on the design process. However in order to help with communicating with the client, we decided to use as many communication methods as possible, for example we used a visual style with a presentation, a verbal style with me presenting the slides as well as a physical style with a demo that they could use. On top of this, non-verbal communication was used in order to help if anyone could not hear by using my hands to point to different parts when explaining to make it more clear.
+Before meetings there where some issues with the powerpoint presentation as it had been created in google docs then transferred over to Microsoft PowerPoint, however those problems where managed to be fixed before the pitch had started. As well as this the group made handouts for the clients to make sure that any information that was missed or not communicated properly would still be showed to the client. With these handouts we where able to resolve an issue with the app before it was too late to have any big impact on the design process.
 
 After meeting we made sure to cover all of the risks and problems that we could encounter on the project. For example if someone was to have issues with a certain part of building the program, would there be help from the team and if so, was there flexability within the group to help. We took these risk into consideration and tried to make technical solutions to each of them. With us doing this it meant that most of the risks that could have been prevented were, this process saved much time and recources and allowed us to use our time much more effectively in the project.
 
