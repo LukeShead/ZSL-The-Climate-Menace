@@ -5,9 +5,13 @@ Version 1.0
 
 Produced by 
 Matthew Sides: Programming
+
 Sam Dearing: Testing, research and time management
+
 LukeBruni: Graphics
+
 Luke Shead: Presentation and research
+
 Joe William: Programming
 
 01/11/2017
