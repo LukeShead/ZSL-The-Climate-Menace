@@ -3,7 +3,12 @@
 ## Design History
 Version 1.0
 
-Produced by Matthew Sides, Sam Dearing, LukeBruni, Luke Shead and Joe William
+Produced by 
+Matthew Sides: Programming
+Sam Dearing: Testing, research and time management
+LukeBruni: Graphics
+Luke Shead: Presentation and research
+Joe William: Programming
 
 01/11/2017
 
@@ -38,9 +43,9 @@ For example a project will be to build a car, the epics would be to build an eng
 
 The epic of the project was to design an application that would be able to meet the users requirements to a certain standard. Because of this it meant that each requirement had to be looked at individually. This is where user stories where made, some examples of the user stories that were made was:
 
-I want to be able to navigate the menu by clicking onto it,
-I want to be able to go to whichever habitat in any order I want,
-I want to be able to have an option that tells me what to do in case I don't understand,
+##### I want to be able to navigate the menu by clicking onto it,
+##### I want to be able to go to whichever habitat in any order I want,
+##### I want to be able to have an option that tells me what to do in case I don't understand,
 
 With these stories and many more we were able to have a look at all the user requirements and put them in their own tasks, which made us focus more on the individual tasks that were important to the requirements of the user and know exactly what software we needed to use in order to help us achieve them. Becuase of these stories and epics we were able to manage our time and efficiency onto what the user needed instead of what the team think are good to have.
 
