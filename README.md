@@ -84,9 +84,19 @@ Before meetings there where some issues with the powerpoint presentation as it h
 
 After meeting we made sure to cover all of the risks and problems that we could encounter on the project. For example if someone was to have issues with a certain part of building the program, would there be help from the team and if so, was there flexability within the group to help. We took these risk into consideration and tried to make technical solutions to each of them. With us doing this it meant that most of the risks that could have been prevented were, this process saved much time and recources and allowed us to use our time much more effectively in the project.
 
-### Feedback
+# Feedback
 
 On parts of the ZSL project, there were meetings on the project to show what the app was looking like and if it was going in the right direction of what they wanted. The feedback that our group got on the first pitch was very eye-opening as it showed us that we had been going in a wrong direction with our app. By meeting with the client it showed us what the client was looking for, having this new information made us need to start making changes to the application.
+
+## qualitative and quantitative research
+
+When building the application, we needed to research whether people found the application fun and interactive, this meant that we would have to use serveys in order to find out the applications quality with multiple people. In order to do this we did two types of research, qualitative and quantitative research meant that we were able to get lots of information in order to improve the app.
+
+| Name          | Rating 1-10   | Other feedback  |
+| ------------- |:-------------:| ---------------:|
+| col 3 is      | right-aligned | $1600           |
+| col 2 is      | centered      |   $12           |
+| zebra stripes | are neat      |    $1           |
 
 ### Meeting the clients needs with software and the tools used
 When reflecting on the feedback that the client had given us, we needed to look at the software that we were using and whether it would be effective in delivering a product that suited the clients needs. We took time to investigate unity's functions and qualities as well as some other sofware and made sure that the software that we were using was acceptable for the timeframe and scope of the project. After reviewing our choices we found that unity was the right decision and decided to use that to rebuild our app.
