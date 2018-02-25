@@ -176,13 +176,19 @@ After the green house gas chain has been compeleted and put into the correct ord
 
 Moreover once a pledge has been chosen the user will then be taken (transitioned) back to the main menu screen.
 
-### Players | Platform
+### Players
 
 The application will adhere to 11-16 year olds, being compatible on the following system;
 
-Apple-IPAD-IOS-Chrome
-
 The application itself though not built with multiplayer, may be used by multiple people through sharing one system or machine and  straightforward discussion  (as to what should be inputted).
+
+### Platform
+
+chrome-web based.
+
+### Why we chose google chrome based app
+
+The reason we chose a web based application over a downloadable app is because of the setup that is required for the application to be added to the store. Specifically, Apple with IOS require a licence for an app to be downloaded from the store, this was not free and ZSL nor the team was willing to pay for the license to download under the app store. For android it was easier however that would mean that the Ipads that had been provided would become obsolete and then more hardware would need to be bought. Because of this the decision was a web based app on Google Chrom to allow a user on any device to access it providing they had Google Chrome installed.
 
 ### Genre 
 
