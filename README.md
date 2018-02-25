@@ -95,12 +95,17 @@ When building the application, we needed to research whether people found the ap
 | Name          | Rating 1-10   | Other feedback  |
 | ------------- |:-------------:| ---------------:|
 |Ciaran Smith| 6 | The application looks good however needs to be a bit slower so I can take in the information|
-|Matthew Senior| 8      |  The information would clear and the drag and drop was fun, but the artstyle is a bit bland|
-|Michael Chhina| 4   | I found the artstyle bad as well as the information that it gave me, may need better explanation of what to do|
+|Matthew Senior| 8 |  The information would clear and the drag and drop was fun, but the artstyle is a bit bland|
+|Michael Chhina| 4 | I found the artstyle bad as well as the information that it gave me, may need better explanation of what to do|
+|Mark Biswell| 3 | The artstyle is not very pleasing to look at and the information is not very suited for the purpose of the app | 
 
 The information that was given was very helpful in how we were going to improve our application, the artstyle and information seemed to be the points to work on at the time, because of this Luke Bruni did some changes to make it look more visually appealing and we changed the information to make it much clearer. 
 
 Because of this feedback we were able to change the application to help meet not only the clients needs but all the user's needs as well. In order to make sure the changes were made properly, we devised more aims and objectives in order to allow the team focus only on what needed to be changed and not change things that didnt need to be. Because of this the application was improved successfully.
+
+## Analysing the data using tools and techniques
+
+
 
 ### Meeting the clients needs with software and the tools used
 When reflecting on the feedback that the client had given us, we needed to look at the software that we were using and whether it would be effective in delivering a product that suited the clients needs. We took time to investigate unity's functions and qualities as well as some other sofware and made sure that the software that we were using was acceptable for the timeframe and scope of the project. After reviewing our choices we found that unity was the right decision and decided to use that to rebuild our app.
