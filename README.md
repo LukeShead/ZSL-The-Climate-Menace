@@ -98,6 +98,7 @@ When building the application, we needed to research whether people found the ap
 |Matthew Senior| 8 |  The information would clear and the drag and drop was fun, but the artstyle is a bit bland|
 |Michael Chhina| 4 | I found the artstyle bad as well as the information that it gave me, may need better explanation of what to do|
 |Mark Biswell| 3 | The artstyle is not very pleasing to look at and the information is not very suited for the purpose of the app | 
+
 Because of this feedback we were able to change the application to help meet not only the clients needs but all the user's needs as well. In order to make sure the changes were made properly, we devised more aims and objectives in order to allow the team focus only on what needed to be changed and not change things that didnt need to be. Because of this the application was improved successfully.
 
 ## Analysing the data using tools and techniques
