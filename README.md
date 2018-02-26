@@ -289,7 +289,6 @@ Tasks for 9th-15th
 | Create a full list of features and how it relates to clients requirements |  Luke Shead  |   45 minutes | Yes |                        | Compile, create and practise concept pitch  |   Whole Group |      1 hour    |  Yes    |                                    
 
 
-
 #### Monday 16th Sprint 2
 
 | Task    | Group Member         | Time Allocated               | Completed                      |
