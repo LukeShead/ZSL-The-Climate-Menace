@@ -188,7 +188,7 @@ chrome-web based.
 
 ### Why we chose google chrome based app
 
-The reason we chose a web based application over a downloadable app is because of the setup that is required for the application to be added to the store. Specifically, Apple with IOS require a licence for an app to be downloaded from the store, this was not free and ZSL nor the team was willing to pay for the license to download under the app store. For android it was easier however that would mean that the Ipads that had been provided would become obsolete and then more hardware would need to be bought. Because of this the decision was a web based app on Google Chrom to allow a user on any device to access it providing they had Google Chrome installed.
+The reason we chose a web based application over a downloadable app is because of the setup that is required for the application to be added to the store. Specifically, Apple with IOS require a licence for an app to be downloaded from the store, this was not free and ZSL nor the team was willing to pay for the license to download under the app store. For android it was easier however that would mean that the Ipads that had been provided would become obsolete and then more hardware would need to be bought. Because of this the decision was a web based app on Google Chrome to allow a user on any device to access it providing they had Google Chrome installed.
 
 ### Genre 
 
