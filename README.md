@@ -78,7 +78,7 @@ These are all types of aims that we devised, however objectives were then what n
 
 These were some of the objectives for the project, these were like the user stories however a lot more specific to a task. These with the user stories helped us focus on the project better and allowed us to work more effieciently when delivering out training event within ZSL.
 
-### Communication methods for training event
+## Communication methods for training event
 
 When giving the training event for the client at the ZSL zoo, we decided to use as many communication methods as possible in order to make sure that the information we were trying to present to the client was receieved properly.
 
