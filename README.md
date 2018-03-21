@@ -76,7 +76,7 @@ These are all types of aims that we devised, however objectives were then what n
 ##### Luke Bruni start to build the graphics for the menu,
 ##### Research types of pledges to use for system,
 
-These were some of the objectives for the project, these were like the user stories however a lot more specific to a task. These with the user stories helped us focus on the project better and allowed us to work more effieciently.
+These were some of the objectives for the project, these were like the user stories however a lot more specific to a task. These with the user stories helped us focus on the project better and allowed us to work more effieciently when delivering out training event within ZSL.
 
 ### Communication methods for training event
 
