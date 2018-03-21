@@ -82,7 +82,7 @@ These were some of the objectives for the project, these were like the user stor
 
 When giving the training event for the client at the ZSL zoo, we decided to use as many communication methods as possible in order to make sure that the information we were trying to present to the client was receieved properly.
 
-#### Visual
+### Visual
 We used a visual style with a presentation, this allowed us to show pictures of what we were talking about in order to help the client understand what we were presenting and see the visual style instead of having to imagine it themselves.
 
 ### Verbal style 
