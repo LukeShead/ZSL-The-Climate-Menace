@@ -83,16 +83,16 @@ These were some of the objectives for the project, these were like the user stor
 When giving the training event for the client at the ZSL zoo, we decided to use as many communication methods as possible in order to make sure that the information we were trying to present to the client was receieved properly.
 
 ### Visual
-We used a visual style with a presentation, this allowed us to show pictures of what we were talking about in order to help the client understand what we were presenting and see the visual style instead of having to imagine it themselves.
+We used a visual style with a presentation, this allowed us to show pictures of what we were talking about in order to help the client understand what we were presenting and see the visual style instead of having to imagine it themselves. Using this style meant that we were able to successfuly show the clients what the app looked like.
 
 ### Verbal style 
-a verbal style with me presenting the slides, this was me telling the client what each part and button did, also explaining how the application worked instead of having to look and try to guess what each part of the application did.
+a verbal style with me presenting the slides, this was me telling the client what each part and button did, also explaining how the application worked instead of having to look and try to guess what each part of the application did. This style being used allowed us to have more oppurunities to allow explain and analyse more in depth into the app for the clients.
 
 ### physical style 
-physical style with a demo that we gave them at the beginning of the event, this made sure that they could follow along with the presentation and get a much better understanding of the app by using it instead of being told about it.
+physical style with a demo that we gave them at the beginning of the event, this made sure that they could follow along with the presentation and get a much better understanding of the app by using it instead of being told about it. This allowed us to give a better understanding within the app and how it worked as so they dont miss anything within it.
 
 ### Non-verbal
-Non-verbal communication was used in order to help if anyone could not hear by using my hands to point to different parts when explaining to make it more clear. This made points more focused on certain points of the slide.
+Non-verbal communication was used in order to help if anyone could not hear by using my hands to point to different parts when explaining to make it more clear. This made points more focused on certain points of the slide, doing this made the explanation of points easier when working with the physical version as the client could look into what the pointer was on exactly instead of it having to guess what we are describing.
 
 
 ### Deciding on software
