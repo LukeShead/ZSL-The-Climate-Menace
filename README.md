@@ -190,6 +190,8 @@ chrome-web based.
 
 The reason we chose a web based application over a downloadable app is because of the setup that is required for the application to be added to the store. Specifically, Apple with IOS require a licence for an app to be downloaded from the store, this was not free and ZSL nor the team was willing to pay for the license to download under the app store. For android it was easier however that would mean that the Ipads that had been provided would become obsolete and then more hardware would need to be bought. Because of this the decision was a web based app on Google Chrome to allow a user on any device to access it providing they had Google Chrome installed.
 
+We also looked at all other aspects of the software, reliability, functionality and price were a few of the things that we looked at, when looking at how the application would import onto different web browsers, we went and looked at all of the popular browsers to see which one was more compatible with the app that we were creating. By looking at all different types of browsers we realised that Google Chrome had a lot more compatibility with the app than others like Firefox or Internet Explorer. By applying critical reasoning it meant that the right browser was chosen for the application.
+
 ### Genre 
 
 	2D
