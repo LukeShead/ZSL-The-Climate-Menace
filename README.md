@@ -116,7 +116,7 @@ On parts of the ZSL project, there were meetings on the project to show what the
 
 ## 5.1 Qualitative and quantitative research
 
-When building the application, we needed to research whether people found the application fun and interactive, this meant that we would have to use surveys in order to find out the applications quality with multiple people. In order to do this we did two types of research, qualitative and quantitative research meant that we were able to get lots of information in order to improve the app. We invited people into the class to test our game.
+When building the application, we needed to research whether people found the application fun and interactive, this meant that we would have to use surveys in order to find out the applications quality with multiple people. In order to do this we did two types of research, qualitative and quantitative research meant that we were able to get lots of information in order to improve the app. We invited people into the class to test our game, the test was a demo of the game and they all went through it and told us what they thought.
 
 | Name          | Rating 1-10   | Other feedback  |
 | ------------- |:-------------:| ---------------:|
@@ -124,6 +124,8 @@ When building the application, we needed to research whether people found the ap
 |Matthew Senior| 8 |  The information would clear and the drag and drop was fun, but the artstyle is a bit bland|
 |Michael Chhina| 4 | I found the artstyle bad as well as the information that it gave me, may need better explanation of what to do|
 |Mark Biswell| 3 | The artstyle is not very pleasing to look at and the information is not very suited for the purpose of the app | 
+
+We were able to collect the research through both quantitative and qualitative data, in order to get quantitative we allowed the people testing the demo to rate the entire demo from 1-10, this gave us a general outlook on how they viewed the game. This however was not enough feedback to make changes so we asked for qualitative data by giving them an area to write what they thought about the game and describe their feelings towards it, this gave us a much deeper look into how they viewed the demo and the game.
 
 Because of this feedback we were able to change the application to help meet not only the clients needs but all the user's needs as well. In order to make sure the changes were made properly, we devised more aims and objectives in order to allow the team focus only on what needed to be changed and not change things that didnt need to be. Because of this the application was improved successfully.
 
