@@ -251,7 +251,7 @@ This gantt chart shows how the time was planned and managed throughout the proje
 
 ## 8.1 Burndown Chart
 
-![Burndown chart](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Final%20Gantt%20Chart.PNG)
+![Burndown chart](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Final%20Burndown%20chart.jpg)
 
 This shows how the project went in terms of tasks to time when completing the project, the straight line was the predicted or required work to be done within the project and the other line is the pace we went at during the project in comparison to the predicted pace of the project.
 
