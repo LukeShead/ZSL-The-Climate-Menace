@@ -245,7 +245,7 @@ ZSL has given us the task of creating a web based application for children aged 
 
 ## 8.0 Gantt Charts
 
-![First Gantt](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Gantt%20Chart.PNG)
+![First Gantt](https://github.com/LukeShead/ZSL-The-Climate-Menace/blob/master/Final%20Gantt%20Chart.PNG)
 
 This gantt chart shows how the time was planned and managed throughout the project, this graph shows how we planned to spend the time given to us on this project and also how we planned for the risks of the project by allocating the contingency times for the project allowing extra time in case there were halts in time.
 
