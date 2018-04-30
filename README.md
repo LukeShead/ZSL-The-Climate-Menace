@@ -148,9 +148,36 @@ When reflecting on the feedback that the client had given us, we needed to look 
 
 When having feedback from the client, they went into detail into the type of app they wanted, this included it's function, the artstyle and the information that was included, when looking at the different aspects and the resources that were available, we adjusted appropriately and allowed our app to change direction in how it completes it's function. What this means is that by using client feedback, we were able to look at our app and make changes in order to meet the needs of the client.
 
-### 5.7 tools
+### 5.7 tools/techniques for a software investigation
 When meeting and interviewing the client, we used a powerpoint presentation in order to allow us to clearly show what we were trying to do, as well as this we made prototypes in software's that allowed us to be able to tell what kind of software felt easier and what ones felt more clunky or difficult. As well as this we used Adobe Photoshop to collect the images together and make an artstyle that was right for the project. In order to find the tools, we decided to each take a separate task and work together in order to find the best software for a given need. With these tools and techniques we were able to perform a software investigation properly and figure out the best ways to meet the clients needs.
 
+The techniques that were used allowed us to carry out an investigation of software a lot easier than before, we were able to use comparisons when looking at different techniques we met with the client and had a client meeting, this allowed us to get a better understanding of what software we would need to carry out this project. Another technique we looked at was Sprints, we used this to help us keep up with the tasks that were needed to be completed with the timeframe given, we came to this conclusion after meeting the client and comparing different ways of completing the task we came to the conclusion that sprints were the best way.
+
+#### List of tools/techinques used:
+ 
+##### PowerPoint Presentation:
+
+We used Powerpoint in order to help give us a better representation on what we wanted the app to be, we were able to simplify information within it, this allowed the client to look at the different parts of infomation and help us understand what needed to be done and changed in order to meet the requirements,
+
+##### Adobe Photoshop
+
+Photoshop is an Adobe software that we used for our primary graphic design, this is because this tool gave us access to multiple different tools that we could use to help out graphics within the app to look better and more suiting the client needs. As well as provide tools it also allowed us to make prototypes of the art so that we could see what was best for our app.
+
+##### Unity,
+
+Unity was one of the few design platforms that we tested and reviewed, out of the others Unity was the best one, it offered a stable platform for the app to be built, it allowed us to save on the cloud which meant the data was all backed up so that we could have contingences for any issues. Overall it allowed us to create the app in a much more comfortable position than others would have and that is why it was our choice.
+
+##### Sprint,
+
+This was the technique that was chosen in order for us to complete tasks to a good standard on schedule, sprints are where a team will set themselves targets to be completed within a certain timeframe, this allowed us to look at the tasks we had and we could see how quickly they were being completed and was a safe way to ensure that the right work was getting done.
+
+##### Client Meetings,
+
+This was our main technique in order to find out the information that was needed in order to meet the client needs, it required us to meet with the client and use the feedback that they gave us to allow us to make changes to the application in order to cater for the needs more, the client meetings were vital as it allowed us to know exactly what the client wanted and how we had to change our app occordingly.
+
+##### Waterfall development cycle,
+
+We used this cycle in order to complete our project in a way that was organized and easy to understand, the waterfall cycle meant that we would not move onto a different stage until the stage before had been completed and tested fully until completion. When we planned the project we compared models and found this one to be the best out of the others for the project that we had to do.
 
 ### 6.0 Concept
 
