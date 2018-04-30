@@ -42,6 +42,10 @@ This documentation is meant to be read by programmers, artists and producers inv
 
 With the project having quite a large scope, we needed to find a way to break up tasks in order to focus on individual sections of the project. In order to do this we split the project into epics and stories, what this meant was that the project was able to be looked at from the small tasks and problems rather than the entire project as a whole. Doing this helped us look at the requirements for the user and also the software requirements within the project, by looking at these things individually, we were able to focus on the project much easier.
 
+The original requirements of the application had quite a large margin of tasks, this meant that in order to make the tasks easier to break down, we used user stories in order to keep the tasks seperate and unique so that we could complete them one by one and complete the list without deviating from the original tasks that needed to be done.
+
+##### These user stories were broken up into Epics, and from there on, Aims and Objectives,
+
 #### 2.2 Epics
 Epics are usually a task or problem that outlines the big tasks within the project, these can be broken down into stories that can help solve the problem down by looking at the individual smaller problems in the epic. User stories are epics that have been broken down into smaller tasks. 
 
