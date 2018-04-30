@@ -152,8 +152,6 @@ When reflecting on the feedback that the client had given us, we needed to look 
 
 When having feedback from the client, they went into detail into the type of app they wanted, this included it's function, the artstyle and the information that was included, when looking at the different aspects and the resources that were available, we adjusted appropriately and allowed our app to change direction in how it completes it's function. What this means is that by using client feedback, we were able to look at our app and make changes in order to meet the needs of the client.
 
-Using 
-
 ### 5.7 tools/techniques for a software investigation
 When meeting and interviewing the client, we used a powerpoint presentation in order to allow us to clearly show what we were trying to do, as well as this we made prototypes in software's that allowed us to be able to tell what kind of software felt easier and what ones felt more clunky or difficult. As well as this we used Adobe Photoshop to collect the images together and make an artstyle that was right for the project. In order to find the tools, we decided to each take a separate task and work together in order to find the best software for a given need. With these tools and techniques we were able to perform a software investigation properly and figure out the best ways to meet the clients needs.
 
