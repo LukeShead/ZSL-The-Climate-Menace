@@ -147,10 +147,12 @@ We created tables of possible solutions to the problems the feedback gave us and
 
 The information we recived was very helpful when looking at the problems of our application, with the artstyle and information being the two points we needed to focus on, we needed look at the conclusions we could draw, with the effective analysis tool, we once again were able to look at all different conclusions to the feedback. By looking at the feedback and the issue with the artstyle of the game, we came to the conclusion that it needed to be changed as the data showed us that three out of the four people had a problem with the artstyle and as of such it should be changed. Because of this Luke Bruni did some changes to make it look more visually appealing and we changed the information to make it much clearer. 
 
-### 5.6 Meeting the clients needs with software and the tools used
+### 5.6 Meeting the clients needs with software investigation
 When reflecting on the feedback that the client had given us, we needed to look at the software that we were using and whether it would be effective in delivering a product that suited the clients needs. We took time to investigate unity's functions and qualities as well as some other sofware and made sure that the software that we were using was acceptable for the timeframe and scope of the project. After reviewing our choices we found that unity was the right decision and decided to use that to rebuild our app.
 
 When having feedback from the client, they went into detail into the type of app they wanted, this included it's function, the artstyle and the information that was included, when looking at the different aspects and the resources that were available, we adjusted appropriately and allowed our app to change direction in how it completes it's function. What this means is that by using client feedback, we were able to look at our app and make changes in order to meet the needs of the client.
+
+Using 
 
 ### 5.7 tools/techniques for a software investigation
 When meeting and interviewing the client, we used a powerpoint presentation in order to allow us to clearly show what we were trying to do, as well as this we made prototypes in software's that allowed us to be able to tell what kind of software felt easier and what ones felt more clunky or difficult. As well as this we used Adobe Photoshop to collect the images together and make an artstyle that was right for the project. In order to find the tools, we decided to each take a separate task and work together in order to find the best software for a given need. With these tools and techniques we were able to perform a software investigation properly and figure out the best ways to meet the clients needs.
